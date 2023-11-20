@@ -1,2 +1,3 @@
 [lfs]
-     url = https://git-lfs.lsst.codes
+	url = https://git-lfs-dev.lsst.cloud/lsst-sqre/testdata_subaru
+	locksverify = false
